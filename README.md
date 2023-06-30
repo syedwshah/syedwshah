@@ -13,7 +13,7 @@ When I'm not working for a specific organization, I usually dedicate my time to 
 Feel free to explore more of my work by visiting the following links:
 
 - [LinkedIn](https://www.linkedin.com/in/swsprofile/)
-- [Portfolio](https://syedwshah.github.io/)
+- [Portfolio](https://syedwshah.github.io/) 👈 Go here to get a quick skim of my work. For in-depth details visit the repo!
 - [Stack Overflow](https://stackoverflow.com/users/9059680/shah)
 - [Medium](https://medium.com/@syedwshah.nyc)
 
