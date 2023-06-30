@@ -17,9 +17,8 @@ Feel free to explore more of my work by visiting the following links:
 - [Stack Overflow](https://stackoverflow.com/users/9059680/shah)
 - [Medium](https://medium.com/@syedwshah.nyc)
 
-Here are some ideas to get you started:
 
-- 🔭 I'm currently working on ... a social media API written in Go Lang that leverages GraphQL and follows a Test-Driven Development (TDD) approach.
+- 🔭 I'm currently working on a social media API written in Go Lang that leverages GraphQL and follows a Test-Driven Development (TDD) approach.
 - 🌱 I'm currently aiming to become a Go Lang master.
 - 👯 I'm looking to collaborate on web or native applications that abstract annoying tasks out of our lives!
 - 💬 Ask me about React, React-Native, TypeScript, Go, and GraphQL.
