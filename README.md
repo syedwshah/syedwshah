@@ -10,9 +10,9 @@ During my time at Bidscale, I had the opportunity to witness significant team gr
 
 When I'm not working for a specific organization, I usually dedicate my time to building open-source projects. One of my notable projects is React-Native CoreML, which enables engineers to integrate machine learning models into apps on a local device, providing a powerful offline service.
 
-Feel free to explore more of my work through my posts on [LinkedIn](https://www.linkedin.com/in/swsprofile/) or by visiting the following links:
+Feel free to explore more of my work by visiting the following links:
 
-- [GitHub](https://github.com/syedwshah)
+- [LinkedIn](https://www.linkedin.com/in/swsprofile/)
 - [Portfolio](https://syedwshah.github.io/)
 - [Stack Overflow](https://stackoverflow.com/users/9059680/shah)
 - [Medium](https://medium.com/@syedwshah.nyc)
@@ -25,3 +25,4 @@ Feel free to explore more of my work through my posts on [LinkedIn](https://www.
 - 📫 How to reach me: ... My Links!!!
 - ⚡ Fun fact: ... Flow artist
 
+Please feel free to click on my pinned projects to see in depth explanations, demos, and code for them. I've spent the past 7 years building these and have made them available for anyone who may want to build their own projects without the need to do everything from scratch on their own.
