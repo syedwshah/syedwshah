@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hello World! 👽👍
 
 I'm Syed, a software engineer specializing in Front-End development using React, TypeScript, and GraphQL for both mobile and web applications. On the back-end side, I am language and framework agnostic, but I have a preference for API development using Go Lang or serverless architecture using Amazon Web Services.
 
@@ -8,7 +8,7 @@ In my most recent role, I joined a startup backed by the US government to accele
 
 During my time at Bidscale, I had the opportunity to witness significant team growth. While I did not have any direct reports, I frequently served as a point of contact for guidance, code assistance, and peer reviews. I was readily available to offer support and help my colleagues navigate their coding challenges.
 
-When I'm not working for a specific organization, I usually dedicate my time to building open-source projects. One of my notable projects is React-Native CoreML, which enables engineers to integrate machine learning models into apps on a local device, providing a powerful offline service.
+When I'm not working for a specific organization, I usually dedicate my time to building open-source projects. One of my notable projects is [React-Native CoreML](https://github.com/syedwshah/RNCoreML), which enables engineers to integrate machine learning models into apps on a local device, providing a powerful offline service.
 
 Feel free to explore more of my work by visiting the following links:
 
@@ -17,12 +17,13 @@ Feel free to explore more of my work by visiting the following links:
 - [Stack Overflow](https://stackoverflow.com/users/9059680/shah)
 - [Medium](https://medium.com/@syedwshah.nyc)
 
+Here are some ideas to get you started:
 
-- 🔭 I'm currently working on ... a social media api written in go lang that will leverage GraphQL and TDD
-- 🌱 I'm currently learning ... I'm a Go land master in the making
-- 👯 I'm looking to collaborate on ... Web or Native applications that abstract annoying tasks out of our lives!
-- 💬 Ask me about ... React, React-Native, TypeScript, Go, GraphQL
-- 📫 How to reach me: ... My Links!!!
-- ⚡ Fun fact: ... Flow artist
+- 🔭 I'm currently working on ... a social media API written in Go Lang that leverages GraphQL and follows a Test-Driven Development (TDD) approach.
+- 🌱 I'm currently aiming to become a Go Lang master.
+- 👯 I'm looking to collaborate on web or native applications that abstract annoying tasks out of our lives!
+- 💬 Ask me about React, React-Native, TypeScript, Go, and GraphQL.
+- 📫 How to reach me: Check out my links above!
+- ⚡ Fun fact: I'm a flow artist and I help run free events in NY/NJ area! 🎭
 
-Please feel free to click on my pinned projects to see in depth explanations, demos, and code for them. I've spent the past 7 years building these and have made them available for anyone who may want to build their own projects without the need to do everything from scratch on their own.
+Please feel free to click on my pinned projects to see in-depth explanations, demos, and code for them. I've spent the past 5+ years building these and have made them available for anyone who may want to build their own projects without the need to start from scratch.
