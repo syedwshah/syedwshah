@@ -23,6 +23,6 @@ Feel free to explore more of my work by visiting the following links:
 - 👯 I'm looking to collaborate on web or native applications that abstract annoying tasks out of our lives!
 - 💬 Ask me about React, React-Native, TypeScript, Go, and GraphQL.
 - 📫 How to reach me: Check out my links above!
-- ⚡ Fun fact: I'm a flow artist and I help run free events in NY/NJ area! 🎭
+- ⚡ Fun fact: I'm a flow artist and I run free events in NY/NJ area! 🎭
 
 Please feel free to click on my pinned projects to see in-depth explanations, demos, and code for them. I've spent the past 5+ years building these and have made them available for anyone who may want to build their own projects without the need to start from scratch.
