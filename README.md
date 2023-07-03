@@ -1,6 +1,6 @@
 ### Hello World! 👽👍
 
-I'm Syed, a software engineer specializing in Front-End development using React, TypeScript, and GraphQL for both mobile and web applications. On the back-end side, I have a preference for API development using Go Lang or serverless architecture using Amazon Web Services.
+I'm Syed, a software engineer specializing in Front-End development using React, React-Native,TypeScript, and GraphQL for both mobile and web applications. On the back-end side, I have a preference for API development using Go Lang or serverless architecture using Amazon Web Services.
 
 I am currently seeking an environment that is culturally mission-driven, team-oriented, and possesses a growth mindset. With experience working both in-person and fully remote in cross-functional agile environments, I thrive on collaborative and challenging projects.
 
