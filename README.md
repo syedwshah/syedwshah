@@ -16,7 +16,7 @@ Feel free to explore more of my work by visiting the following links:
 - [Medium](https://medium.com/@syedwshah.nyc)
 
 
-- 🔭 I'm currently seeking new rolw
+- 🔭 I'm currently seeking new role
 - 🌱 I'm building self-proficiency in Go Lang.
 - 💬 Ask me about React, React-Native, TypeScript, Go, and GraphQL, AWS.
 - 📫 How to reach me: Check links above.
