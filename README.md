@@ -1,25 +1,22 @@
-### Hello World! 👽👍
+### Hello World!
 
-I'm Syed, a software engineer specializing in Front-End development using React, React-Native,TypeScript, and GraphQL for native and web applications. On the back-end side, I have a preference for API development using Go Lang or serverless architecture using Amazon Web Services.
+I'm Syed, a software engineer specializing in Front-End development using React, React-Native, TypeScript, and GraphQL applications. On the back-end side, I have no preference for a specific API development language, however I mostly use Go or Node.
 
-I am currently seeking an environment that is culturally mission-driven, team-oriented, and possesses a growth mindset. With experience working both in-person and fully remote in cross-functional agile environments, I thrive on collaborative and challenging projects.
+Presently, I'm studying computer science in the majority of my days. I'm enjoying the process of understanding algorithms as mathematical and functional patterns. I'm also quite immersed in systems design and API development going as far as having used services on AWS such as Elastic Beanstalk, CloudFormation, S3 on using a Free Tier account.
 
-In my most recent role, I joined a startup backed by the US government to accelerate federal procurement. Together with PMs, designers, and engineers, I tackled some of the toughest challenges in the contracting space. During my time at Bidscale, I had the opportunity to witness significant team growth. While I did not have any direct reports, I frequently served as a point of contact for guidance, code assistance, and peer reviews. I was readily available to offer support and help my colleagues navigate their coding challenges.
+In my previous role, I joined a startup backed by the US government to accelerate federal procurement. Together with PMs, designers, and engineers, we tackled some of the toughest challenges in the contracting space.
 
-When I'm not working for a specific organization, I usually dedicate my time to building open-source projects. One of my notable projects is [React-Native CoreML](https://github.com/syedwshah/RNCoreML), which enables engineers to integrate machine learning models into apps on a local device, providing a powerful offline service.
+Here are the details about a project I'm proud of: [React-Native CoreML](https://github.com/syedwshah/RNCoreML),  enables integration of machine learning models into apps on a native display, a powerful offline service removing the requiring knowledge of Swift/Objective C programming language for developers.
 
 Feel free to explore more of my work by visiting the following links:
 
 - [LinkedIn](https://www.linkedin.com/in/swsprofile/)
-- [Portfolio](https://syedwshah.github.io/) 👈 Go here to get a quick skim of my work. For in-depth details visit the repo! Note: Podcast App .README is missing, see demo in portfolio link.
+- [Portfolio](https://syedwshah.github.io/) For details visit repo. Podcast App .README missing, see demo in portfolio link.
 - [Stack Overflow](https://stackoverflow.com/users/9059680/shah)
 - [Medium](https://medium.com/@syedwshah.nyc)
 
 
-- 🔭 I'm currently working on a social media API written in Go Lang that leverages GraphQL and follows a Test-Driven Development (TDD) approach.
-- 🌱 I'm currently aiming to become a Go Lang master.
-- 👯 I'm looking to collaborate on web or native applications that abstract annoying tasks out of our lives!
+- 🔭 I'm currently seeking new rolw
+- 🌱 I'm building self-proficiency in Go Lang.
 - 💬 Ask me about React, React-Native, TypeScript, Go, and GraphQL, AWS.
-- 📫 How to reach me: Check out my links above!
-
-Please feel free to click on my pinned projects to see in-depth explanations, demos, and code for them. I've spent the past 5+ years building these and have made them available for anyone who may want to build their own projects without the need to start from scratch.
+- 📫 How to reach me: Check links above.
