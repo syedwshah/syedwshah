@@ -1,10 +1,10 @@
 ### Hello World!
 
-I'm Syed, a software engineer specializing in Front-End development using React/React-Native, TypeScript, and GraphQL. On the back-end side, I have no preference for a specific API development language, however I mostly use Go or Node.
+I'm Syed, a software engineer specializing in Front-End development using React/React-Native, TypeScript, and GraphQL. On the back-end side, I mostly use Go or Node.
 
 In my previous role as a software engineer, I worked at a startup backed by the US government to accelerate federal procurement. Together with PMs, designers, and engineers, we tackled challenges in the contracting space.
 
-Presently, I'm studying computer science in the majority of days. I'm enjoying the process of understanding algorithms as mathematical and functional patterns. I'm quite immersed in systems design and API development going as far as having used services on AWS such as Elastic Beanstalk, CloudFormation, S3 using my AWS account.
+Presently, I'm quite immersed in systems design and API development going as far as having used services on AWS such as Elastic Beanstalk, CloudFormation, S3 using my AWS account. I am also frequently writing tech articles pertaining to Systems Design, API Design, OOD, and DSAs.
 
 
 Feel free to explore more of my work by visiting the following links:
