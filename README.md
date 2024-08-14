@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced Software Engineer with 5+ years in the industry, proficient in both front-end and back-end development. Seeking to apply expertise in distributed networks, data structures, and microservices to contribute effectively in a challenging software engineering role. Demonstrated success in delivering high-performance SaaS solutions using technologies such as React, GraphQL, and AWS at Bidscale. Committed to excellence, as evidenced by rigorous training with top industry professionals and a history of achieving client satisfaction in contracted and federal projects.
+Experienced Software Engineer with over 5 years of industry expertise, specializing in both front-end and back-end development. Eager to leverage knowledge in AI/ML, distributed networks, advanced data structures, and microservices architecture to tackle challenging roles. Proven track record of engineering high-performance SaaS solutions with a focus on scalability and reliability, utilizing technologies such as AI/ML, React, TypeScript, Node.js, GraphQL, and AWS.
 
 - 🔭 Actively seeking new opportunities
 - 💬 Ask me about React, React-Native, TypeScript, Go, and GraphQL, AWS.
