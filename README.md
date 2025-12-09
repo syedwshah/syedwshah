@@ -2,11 +2,6 @@
 
 I’m a Software + AI Engineer with a background in Electrical Engineering, now focused on building autonomous systems and agentic infrastructure. My journey spans IT support, full-stack engineering, and now leading PartyGem AI — a SaaS platform blending LLMs, causal inference, and real-time analytics.
 
-I architect complex systems using FastAPI, Go, TypeScript, and Postgres/MySQL, and deploy AI agents via MCP servers (Task Master), RooCode, BAML, and OpenRouter. I specialize in prompt engineering, fallback design, and multi-model orchestration.
-
-A systems thinker at heart, I obsess over how everything fits together — from microservice design to the runtime behavior of AI agents. I’ve solved hundreds of LeetCode problems, often across multiple languages, and still enjoy the grind as part of staying sharp.
-
-Always optimizing, always building — whether it’s for performance, resilience, or intelligence.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swsprofile/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@syedwshah.nyc ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9059680/shah ) [![Portfolio](https://img.shields.io/badge/Sample%20%20Projects-8A2BE2)](https://syedwshah.github.io/)
